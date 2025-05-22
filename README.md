@@ -1,2 +1,2 @@
-# Sales-Dashboard
+# fnp sales dashboard
 Sales Dashboard
